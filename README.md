@@ -13,3 +13,6 @@ In Unity3D, I experimented with creating a custom collision system for projectil
 To handle this properly, you need to build your own collision system using math-based capsule checks and multi-threading, either on the CPU and/or GPU.
 
 I don’t have the solution yet, but I plan to develop and refine it here in Godot for my servers.
+
+A bit of imagery for inspiration ;)  
+- https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/170
