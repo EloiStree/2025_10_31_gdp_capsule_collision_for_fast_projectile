@@ -16,3 +16,5 @@ I don’t have the solution yet, but I plan to develop and refine it here in God
 
 A bit of imagery for inspiration ;)  
 - https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/170
+- https://github.com/EloiStree/HelloBulletsHell/issues/2
+- https://github.com/EloiStree/HelloBulletsHell/issues/4
